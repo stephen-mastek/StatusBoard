@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 app_1_name: statusboard
+=======
+app_2_name: statusboard
+>>>>>>> dev-b
 environment: development
